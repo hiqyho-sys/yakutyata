@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "chapters": [
+    [
+      {
+        "dog_id": "dog-115",
+        "photo": "catalog/photo-002.webp"
+      },
+      {
+        "dog_id": "dog-475",
+        "photo": "catalog/photo-037.webp"
+      },
+      {
+        "dog_id": "dog-1074",
+        "photo": "catalog/photo-175.webp"
+      }
+    ],
+    [
+      {
+        "dog_id": "dog-122",
+        "photo": "catalog/photo-007.webp"
+      },
+      {
+        "dog_id": "dog-623",
+        "photo": "catalog/photo-065.webp"
+      },
+      {
+        "dog_id": "dog-128",
+        "photo": "catalog/photo-012.webp"
+      }
+    ],
+    [
+      {
+        "dog_id": "dog-905",
+        "photo": "catalog/photo-113.webp"
+      },
+      {
+        "dog_id": "dog-988",
+        "photo": "catalog/photo-126.webp"
+      },
+      {
+        "dog_id": "dog-1080",
+        "photo": "catalog/photo-181.webp"
+      }
+    ]
+  ]
+}
